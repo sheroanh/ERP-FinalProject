@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20240107T091207Z - 51256@eeaf42f65fa9
+DTSTART:20240112T155505Z
+DTEND:20240112T185505Z
+ATTENDEE:MAILTO:admin@yourcompany.example.com
+CREATED:20240107T091207Z
+DESCRIPTION:Internal meeting for discussion for new pricing for product and
+  services.
+DTSTAMP:20240107T091207Z
+ORGANIZER;CN="YourCompany, Mitchell Admin":MAILTO:admin@yourcompany.example
+ .com
+SUMMARY:Pricing Discussion
+END:VEVENT
+END:VCALENDAR

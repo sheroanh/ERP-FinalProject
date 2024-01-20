@@ -1,0 +1,58 @@
+
+                .o_company_35_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: black;
+                    }
+                    #informations strong {
+                        color: black;
+                    }
+                    #total strong{
+                        color: black;
+                    }
+                    table {
+                        thead {
+                            color: black;
+                        }
+                    }
+                }
+            }
+                .o_company_2_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: #0059a8;
+                    }
+                    #informations strong {
+                        color: #0000af;
+                    }
+                    #total strong{
+                        color: #0059a8;
+                    }
+                    table {
+                        thead {
+                            color: #0000af;
+                        }
+                    }
+                }
+            }
+                .o_company_1_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: black;
+                    }
+                    #informations strong {
+                        color: black;
+                    }
+                    #total strong{
+                        color: black;
+                    }
+                    table {
+                        thead {
+                            color: black;
+                        }
+                    }
+                }
+            }
